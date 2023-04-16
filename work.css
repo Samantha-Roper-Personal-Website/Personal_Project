@@ -15,7 +15,7 @@ h1{
     margin-left: 20px;
 }
 body{
-    background-image: url(./assets/DSC_0009-2.png);
+    background-image: url(./assets/DSC_0788.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -30,7 +30,4 @@ p{
 h2{
     margin-left: 25px;
     font-size: 2rem;
-}
-footer{
-    margin-top: auto;
 }
